@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ham Radio Logger</string>
+    <string name="home">Home</string>
+    <string name="logbook">Logbook</string>
+    <string name="band_predictor">Band Predictor</string>
+    <string name="settings">Settings</string>
+    <string name="new_contact">New Contact</string>
+    <string name="call_sign">Call Sign</string>
+    <string name="frequency">Frequency (MHz)</string>
+    <string name="mode">Mode</string>
+    <string name="time_on">Time On (UTC)</string>
+    <string name="time_off">Time Off (UTC)</string>
+    <string name="signal_report">Signal Report</string>
+    <string name="notes">Notes</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="upload_to_qrz">Upload to QRZ</string>
+    <string name="qrz_username">QRZ Username</string>
+    <string name="qrz_password">QRZ Password</string>
+    <string name="get_my_location">Get My Location</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="export_logbook">Export Logbook</string>
+    <string name="import_logbook">Import Logbook</string>
+</resources>
